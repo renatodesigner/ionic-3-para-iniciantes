@@ -31,8 +31,7 @@ import { FilmeDetalhesPageModule } from '../pages/filme-detalhes/filme-detalhes.
   imports: [
     BrowserModule,
     IonicModule.forRoot(MyApp),
-    //importando modulo de feed
-    //FeedPageModule
+    //importando moduls
     FeedPageModule,
     IntroPageModule,
     ConfiguracoesPageModule,
